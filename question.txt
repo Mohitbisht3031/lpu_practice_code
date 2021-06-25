@@ -1,0 +1,9 @@
+Given an array of length N and an integer x, you need to find and return the first index of integer x present 
+in the array. Return -1 if it is not present in the array.First index means, the index of first occurrence of x 
+in the input array.
+(also for last index)
+
+[1,2,3,4,4,5,5,6] ,x=4 
+o/p(for first index): 3
+o/p(for last index): 4
+
